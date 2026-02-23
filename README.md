@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Karla</h1>
+<h1 align="center">Hi, I'm Karla</h1>
 <h3 align="center">A passionate student programmer and data analyst from Colombia, driven by curiosity and a commitment to leveraging technology for impactful solutions.</h3>
 
-- 🔭 I’m currently working on [Prescripta](https://github.com/karlaguio/Prescripta)
+- 🔭 I’m currently working on [immune system game](https://github.com/karlaguio/mini-capstone/blob/main/immune_system_model.py).
 
 - 🌱 I’m currently learning **Tailwind, React, JS**
 
